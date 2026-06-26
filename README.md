@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [1768-merge-strings-alternately](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
