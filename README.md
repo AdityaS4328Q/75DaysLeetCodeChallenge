@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
