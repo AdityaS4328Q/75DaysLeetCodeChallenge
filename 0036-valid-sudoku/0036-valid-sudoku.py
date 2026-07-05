@@ -2,28 +2,35 @@ import collections
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        # Create sets to track numbers seen in each row, column, and 3x3 box
-        rows = collections.defaultdict(set)
-        cols = collections.defaultdict(set)
-        boxes = collections.defaultdict(set) # key: (r//3, c//3)
-
-        for r in range(9):
-            for c in range(9):
-                val = board[r][c]
-                
-                # Skip empty cells
-                if val == ".":
-                    continue
-                
-                # Check if value already exists in current row, col, or box
-                if (val in rows[r] or 
-                    val in cols[c] or 
-                    val in boxes[(r // 3, c // 3)]):
+        for i in range(9):
+            s=set()
+            for j in range(9):
+                item= board[i][j]
+                if item in s:
                     return False
-                
-                # Add value to the respective sets
-                rows[r].add(val)
-                cols[c].add(val)
-                boxes[(r // 3, c // 3)].add(val)
-                
+                elif item not in '.':
+                    s.add(item)
+
+        for i in range(9):
+            s=set()
+            for j in range(9):
+                item= board[j][i]
+                if item in s:
+                    return False
+                elif item not in '.':
+                    s.add(item)
+
+        starts= [(0,0),(0,3),(0,6),
+                 (3,0),(3,3),(3,6),
+                 (6,0),(6,3),(6,6)]
+
+        for i,j in starts:
+            s=set()
+            for row in range(i,i+3):
+                for col in range(j,j+3):
+                    item=board[row][col]
+                    if item in s:
+                        return False
+                    elif item not in '.':
+                        s.add(item)
         return True
