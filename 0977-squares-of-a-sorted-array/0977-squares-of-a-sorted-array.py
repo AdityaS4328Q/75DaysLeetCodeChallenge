@@ -8,12 +8,9 @@ class Solution:
                 results.append(nums[right]**2)
                 right-=1
 
-            elif abs(nums[left])> abs(nums[right]):
-                results.append(nums[left]**2)
-                left+=1
-
             else:
                 results.append(nums[left]**2)
                 left+=1
+        results.reverse()
 
-        return results[::-1]
+        return results
