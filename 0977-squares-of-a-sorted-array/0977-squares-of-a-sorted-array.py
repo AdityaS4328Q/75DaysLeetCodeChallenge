@@ -11,6 +11,6 @@ class Solution:
             else:
                 results.append(nums[left]**2)
                 left+=1
-        #results.reverse()
+        results.reverse()
 
-        return results[::-1]
+        return results
