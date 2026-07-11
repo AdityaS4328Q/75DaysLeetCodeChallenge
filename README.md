@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 ## Sliding Window
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
