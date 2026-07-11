@@ -1,23 +1,16 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        left  = 0                  # start pointer
-        right = len(height) - 1   # end pointer
-        max_water = 0
-        
-        while left < right:
-            
-            # Calculate current water
-            width    = right - left
-            h        = min(height[left], height[right])
-            water    = width * h
-            
-            # Update maximum
-            max_water = max(max_water, water)
-            
-            # Move the pointer with SHORTER line
-            if height[left] < height[right]:
-                left += 1    # left is shorter → move left inward
+        n= len(height)
+        l=0
+        r= n-1
+        max_value=0
+        while l<r:
+            w = r-l
+            h= min(height[l],height[r])
+            area= w*h
+            max_value= max(max_value, area)
+            if height[l] < height[r]:
+                l+=1
             else:
-                right -= 1   # right is shorter (or equal) → move right inward
-        
-        return max_water
+                r-=1
+        return max_value
