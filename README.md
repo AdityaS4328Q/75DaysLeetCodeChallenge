@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2239-find-closest-number-to-zero](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
