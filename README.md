@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
