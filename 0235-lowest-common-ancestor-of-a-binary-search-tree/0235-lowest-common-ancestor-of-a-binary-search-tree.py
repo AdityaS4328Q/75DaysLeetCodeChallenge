@@ -7,17 +7,19 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        curr = root
-        
-        while curr:
-            # If both p and q are greater than parent, LCA must be in right subtree
-            if p.val > curr.val and q.val > curr.val:
-                curr = curr.right
-                
-            # If both p and q are lesser than parent, LCA must be in left subtree
-            elif p.val < curr.val and q.val < curr.val:
-                curr = curr.left
-                
-            # We found the split point (or one of the nodes is the current node)
+        lca=[root]
+        def search(root):
+            if not root:
+                return
+            lca[0]=root
+            if p.val == root.val and q.val == root.val:
+                return
+            elif p.val < root.val and q.val < root.val:
+                search(root.left)
+            elif p.val > root.val and q.val >root.val:
+                search(root.right)
             else:
-                return curr
+                return
+
+        search(root)
+        return lca[0]
