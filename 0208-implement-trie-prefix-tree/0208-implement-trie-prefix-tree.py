@@ -1,45 +1,37 @@
-class TrieNode:
-    def __init__(self):
-        # A dictionary to hold the children nodes (character -> TrieNode)
-        self.children = {}
-        # A boolean flag to mark if a word ends at this specific node
-        self.is_end_of_word = False
-
 class Trie:
+
     def __init__(self):
-        # Initialize the Trie with an empty root node
-        self.root = TrieNode()
+        self.trie = {}
+        
 
     def insert(self, word: str) -> None:
-        curr = self.root
-        for char in word:
-            # If the character isn't a child yet, create a new node
-            if char not in curr.children:
-                curr.children[char] = TrieNode()
-            # Move down to that child node
-            curr = curr.children[char]
-        # Mark the last node as the end of the newly inserted word
-        curr.is_end_of_word = True
+        d = self.trie
+        for c in word:
+            if c not in d:
+                d[c]={}
+            d=d[c]
+        d['.']='.'
 
     def search(self, word: str) -> bool:
-        curr = self.root
-        for char in word:
-            # If a character is missing, the word isn't in the tree
-            if char not in curr.children:
+        d= self.trie
+        for c in word:
+            if c not in d:
                 return False
-            curr = curr.children[char]
-        # Return True ONLY if we actually ended on a completed word
-        return curr.is_end_of_word
+            d = d[c]
+        return '.' in d
+        
 
     def startsWith(self, prefix: str) -> bool:
-        curr = self.root
-        for char in prefix:
-            # If a character in the prefix is missing, return False
-            if char not in curr.children:
+        d = self.trie
+        for c in prefix:
+            if c not in d:
                 return False
-            curr = curr.children[char]
-        # If we successfully traversed the whole prefix, it exists
+            d=d[c]
+
         return True
+        
+
+
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
 # obj.insert(word)
