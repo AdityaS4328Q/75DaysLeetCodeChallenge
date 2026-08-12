@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [2239-find-closest-number-to-zero](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
