@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
@@ -388,8 +390,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
