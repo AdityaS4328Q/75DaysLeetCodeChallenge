@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 ## Linked List
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
