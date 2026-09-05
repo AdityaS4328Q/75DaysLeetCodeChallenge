@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/AdityaS4328Q/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
